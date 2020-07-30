@@ -1,3 +1,4 @@
+![Cover](https://github.com/Laurie24/Laurie24/blob/master/img/background.png)
 # Laurie Villeneuve <br>
 ## Développeuse Web 💻
 
