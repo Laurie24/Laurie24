@@ -1,5 +1,5 @@
-# Laurie Villeneuve 
-## Développeuse Web
+# Laurie Villeneuve <br>
+## Développeuse Web 💻
 
 Bonjour moi c'est Laurie 👋  
 En période de transition professionnelle, je suis actuellement en formation développeur web et web mobile. <br>
