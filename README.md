@@ -1,16 +1,20 @@
-### Hi there 👋
+## Laurie Villeneuve 
+# Développeuse Web
 
-<!--
-**Laurie24/Laurie24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bonjour moi c'est Laurie 👋  
+En période de transition professionnelle, je suis actuellement en formation développeur web et web mobile. 
+Je souhaiterais prendre part à des projets d'entreprise valorisant, enrichissant et prometteur ! 
 
-Here are some ideas to get you started:
+# Mes points forts : 
+* Ma créativité 🎨
+* Ma curiosité 👀
+En alliant mon expérience en art graphique avec le développement web, je suis en mesure de m’intégrer à une équipe pluridisciplinaire pour des projets multi-canaux. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Me contacter :
+* Mail : villeneuvelaurie@orange.fr
+* Linkedln : https://www.linkedin.com/in/laurie-villeneuve-92b90213a/
+
+
+
+
+
